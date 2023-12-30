@@ -8,6 +8,11 @@ package main;
  *
  * @author Zack
  */
-public class main {
-    
+public class Main extends JApplet{
+     public static void main(String args[]) {
+               
+               GraphicUI game=new GraphicUI();
+                
+         
+    }
 }
